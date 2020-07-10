@@ -10,4 +10,4 @@ I'm a Full Stack Mobile App Developer.
 -✅ Development Sphere: Mobile Application Development.
 
 
--📧 Reach out to me here: kazimsayed954@gmail.com
+# -📧 Reach out to me here: kazimsayed954@gmail.com
