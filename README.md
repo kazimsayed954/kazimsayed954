@@ -1,6 +1,8 @@
 Hi there 👋
 
 I'm a Full Stack Mobile App Developer.
+I'm a Computer Engineering Student furthermore I adore Technologies. I Believe is to obtain product alternately of Writing 'Hello world ' programs because if you Lighted to make products through programming. You're going to enjoy it.
+I'm an ambitious programmer who holds to strengthen skills rather than acquiring a traditional syllabus. My moto is to resolve real-life problems through software solutions
 
 ## 👨‍💻 Development Skills:
 -✅ Languages: C/C++, Core Java, Python, Dart, Kotlin<br>
