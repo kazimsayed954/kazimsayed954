@@ -11,7 +11,7 @@ I'm a Full Stack Mobile App Developer.
 
 
 [![Twitter](https://img.shields.io/twitter/follow/kazimsayed954.svg?style=social&label=@kazimsayed954)](https://twitter.com/kazimsayed954)
-[![Linkedin](https://img.shields.io/badge/-kazimsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazimsayed/)
+[![Linkedin](https://img.shields.io/badge/-kazimsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazimsayed/)]
 
 
 #### 📧 Reach out to me here: kazimsayed954@gmail.com
