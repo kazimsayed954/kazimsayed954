@@ -1,4 +1,4 @@
-[![rishiraj acharya header](https://raw.githubusercontent.com/rishiraj-acharya/rishiraj-acharya/master/cover.png)](https://rishiraj-acharya.github.io/info/)
+[![rishiraj acharya header](https://github.com/kazimsayed954/kazimsayed954/blob/master/kazimsayed954/Sayed%20Mohd%20Kazim%20Mehdi.png)](https://www.linkedin.com/in/kazimsayed/)
 <p align="center">
 
 Hi there 👋
