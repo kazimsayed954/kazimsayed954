@@ -10,7 +10,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 ## 👨‍💻 Development Skills:
 -✅ Languages: C/C++, Core Java, Python, Dart, Kotlin<br>
 -✅ Frameworks/SDK: Flask, PhoneGap, Android SDK, Flutter SDK<br>
--✅ Tools & Technologies: Github Actions, Git, Dialogflow, IBM Watson<br>
+-✅ Tools & Technologies: Github, Git, Dialogflow, IBM Watson<br>
 -✅ Cloud: Amazon Web Services, Google Cloud Platform, Firebase, Cloud Firestore<br>
 -✅ Development Sphere: Mobile Application Development.<br>
 
