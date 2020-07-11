@@ -26,5 +26,5 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=kazimsayed954&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kazimsayed954.kazimsayed954)
 
