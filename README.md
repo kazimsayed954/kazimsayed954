@@ -33,7 +33,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 
 #### 📧 Reach out to me here: kazimsayed954@gmail.com
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=kazimsayed954&hide=["issues"]&show_icons=true)
+![kazim github stats](https://github-readme-stats.vercel.app/api?username=kazimsayed954&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kazimsayed954.kazimsayed954)
 
