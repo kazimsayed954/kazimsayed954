@@ -22,4 +22,4 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 
 #### 📧 Reach out to me here: kazimsayed954@gmail.com
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=kazimsayed954&hide=["issues"]&show_icons=true)
