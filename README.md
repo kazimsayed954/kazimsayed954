@@ -16,6 +16,12 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 -✅ Cloud: Amazon Web Services, Google Cloud Platform, Firebase, Cloud Firestore<br>
 -✅ Development Sphere: Mobile Application Development.<br>
 
+## 👯 Communities
+* Campus Ambassador at GeeksForGeeks
+* Campus Lead at Scaler Achiever Club
+* Fellow at IncubateIND
+* Mentor at PSoC'20 Programming Club, UIET
+* Android Development Project Mentor @The Uplift Project
 
 [![Twitter](https://img.shields.io/badge/-@kazimsayed954-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kazimsayed954)](https://twitter.com/kazimsayed954)
 [![Linkedin](https://img.shields.io/badge/-kazimsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazimsayed/)](https://www.linkedin.com/in/kazimsayed/)
