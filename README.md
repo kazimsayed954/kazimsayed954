@@ -49,6 +49,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 ![kazim github stats](https://github-readme-stats.vercel.app/api?username=kazimsayed954&hide=["issues"]&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazimsayed954" alt="kazimsayed954" /> </p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kazimsayed954.kazimsayed954)
 
 
