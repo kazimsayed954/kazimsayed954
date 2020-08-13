@@ -14,7 +14,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 -✅ Frameworks/SDK: Flask, PhoneGap, Android SDK, Flutter SDK<br>
 -✅ Tools & Technologies: Github, Git, Dialogflow, IBM Watson<br>
 -✅ Cloud: Amazon Web Services, Google Cloud Platform, Firebase, Cloud Firestore<br>
--✅ Development Sphere: Mobile Application Development (Native Android, Flutter, PhoneGap).<br>
+-✅ Development Sphere: Mobile Application Development (Native Android, Flutter, PhoneGap) ,RESTFul API.<br>
 
 
 ## 👯 Communities
