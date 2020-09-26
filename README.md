@@ -46,7 +46,11 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 
 #### 📧 Reach out to me here: kazimsayed954@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=kazimsayed954&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+### Quick Stats:
 
+<a href="https://github.com/kazimsayed954">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazimsayed954&theme=dark&hide=TCL" />
+</a>
 ![kazim github stats](https://github-readme-stats.vercel.app/api?username=kazimsayed954&hide=["issues"]&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazimsayed954" alt="kazimsayed954" /> </p>
