@@ -43,10 +43,10 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 [![Gmail](https://img.shields.io/badge/-kazimsayed954-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kazimsayed954@gmail.com)](mailto:kazimsayed954@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-kazimsayed-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kazimsayed954/)](https://medium.com/@kazimsayed954)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazimsayed954" alt="kazimsayed954" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazimsayed954&theme=onedark" alt="kazimsayed954" /></a> </p>
 
 #### 📧 Reach out to me here: kazimsayed954@gmail.com
-<img src="https://github-readme-stats.vercel.app/api?username=kazimsayed954&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424&theme=onedark" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kazimsayed954&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
 ![kazim github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimsayed954&theme=dark&hide=TCL)
 
