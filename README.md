@@ -24,6 +24,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 * Mentor at PSoC'20 Programming Club, UIET-Panjab
 * Android Development Project Mentor @The Uplift Project
 * Mentor at HakinCodes
+* Advisor Mentor at WooTech
 
 **Languages and Tools:**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
