@@ -3,7 +3,7 @@
 
 <p align="center">
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70 px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30 px">
 
 I'm a Full Stack Mobile App Developer.
 I'm an undergraduate Computer Engineering Student furthermore I adore Technologies. I Believe is to obtain product alternately of Writing 'Hello world ' programs because if you Lighted to make products through programming. You're going to enjoy it.
