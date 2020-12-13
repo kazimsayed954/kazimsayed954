@@ -1,5 +1,5 @@
 [![sayed mohd kazim mehdi header](https://github.com/kazimsayed954/kazimsayed954/blob/master/kazimsayed954/Sayed%20Mohd%20Kazim%20Mehdi%20(1).jpg?raw=true)](https://www.linkedin.com/in/kazimsayed/)
-<img align='right' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' width='200'>
 
 <p align="center">
 
