@@ -42,7 +42,6 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 
 [![Linkedin](https://img.shields.io/badge/-kazimsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazimsayed/)](https://www.linkedin.com/in/kazimsayed/)
 [![Twitter](https://img.shields.io/badge/-@kazimsayed954-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kazimsayed954)](https://twitter.com/kazimsayed954)
-[![Gmail](https://img.shields.io/badge/-kazimsayed954-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kazimsayed954@gmail.com)](mailto:kazimsayed954@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-kazimsayed-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kazimsayed954/)](https://medium.com/@kazimsayed954)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazimsayed954&theme=onedark" alt="kazimsayed954" /></a> </p>
