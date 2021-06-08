@@ -52,7 +52,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
  <details>
 <summary>📊 Github Stats</summary>
  
-<img src="https://github-readme-stats.vercel.app/api?username=kazimsayed954&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kazimsayed954)
 
 ![kazim github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kazimsayed954&theme=dark&hide=TCL)
 
