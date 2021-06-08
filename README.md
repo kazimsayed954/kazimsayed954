@@ -50,7 +50,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 #### 📧 Reach out to me here: kazimsayed954@gmail.com
 
  <details>
-<summary>📊 Github Stats</summary>
+<summary>📊 Github Stats</summary> <br>
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kazimsayed954)
 
