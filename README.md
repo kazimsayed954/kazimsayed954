@@ -1,3 +1,4 @@
+![](https://activity-graph.herokuapp.com/graph?username=kazimsayed954&theme=react-dark&hide_border=true&area=true)
 
 <img align='right' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' width="450" height="300">
 
