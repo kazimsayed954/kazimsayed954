@@ -22,7 +22,7 @@ I'm an ambitious programmer who holds to strengthen skills rather than acquiring
 * Campus Ambassador at GeeksForGeeks
 * Campus Lead at Scaler Achiever Club
 * Fellow at IncubateIND
-* Mentor at PSoC'20 Programming Club, UIET-Panjab
+* Mentor at PSoC'20 , PSoC'21 Programming Club, UIET-Panjab
 * Android Development Project Mentor @The Uplift Project
 * Mentor at HakinCodes
 * Advisor Mentor at WooTech
