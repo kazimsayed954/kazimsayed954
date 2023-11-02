@@ -42,7 +42,7 @@ Let's connect and collaborate on your next tech venture! 🚀
 
 **Languages and Tools:**
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,mongodb,nodejs,graphql,git,docker" />
+    <img src="https://skillicons.dev/icons?i=js,react,express,mongodb,nodejs,nextjs,graphql,git,docker" />
   </a>
 
 [![Linkedin](https://img.shields.io/badge/-kazimsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazimsayed/)](https://www.linkedin.com/in/kazimsayed/)
