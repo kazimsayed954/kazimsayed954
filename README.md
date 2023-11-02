@@ -69,7 +69,7 @@ Let's connect and collaborate on your next tech venture! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazimsayed954" alt="kazimsayed954" /> </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kazimsayed954.kazimsayed954)
+![](https://komarev.com/ghpvc/?username=kazimsayed954&label=PROFILE+VIEWS&color=green)
  
  
  
