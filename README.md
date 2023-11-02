@@ -8,7 +8,7 @@
 
 # Full Stack Developer | Software Engineer @ NeoSOFT
 
-👋 Hello! I'm a Full Stack Developer and Software Engineer at XYZ with a profound passion for technology. I don't just write 'Hello World' programs; my calling is to create meaningful products through code. There's nothing more fulfilling than bringing ideas to life with programming, and I've dedicated my career to doing just that.
+👋 Hello! I'm a Full Stack Developer and Software Engineer at NeoSOFT with a profound passion for technology. I don't just write 'Hello World' programs; my calling is to create meaningful products through code. There's nothing more fulfilling than bringing ideas to life with programming, and I've dedicated my career to doing just that.
 
 🚀 As an ambitious programmer, I'm not content with the status quo. My mission is to enhance my skills continuously, delving into the latest technologies and best practices to provide innovative solutions. I believe that solving real-life problems through software is the true essence of development.
 
@@ -22,11 +22,12 @@ Let's connect and collaborate on your next tech venture! 🚀
 
 
 ## 👨‍💻 Development Skills:
--✅ Languages: C/C++, Core Java, Python, Dart, Kotlin<br>
--✅ Frameworks/SDK: Flask, PhoneGap, Android SDK, Flutter SDK<br>
--✅ Tools & Technologies: Github, Git, Dialogflow, IBM Watson<br>
--✅ Cloud: Amazon Web Services, Google Cloud Platform, Firebase, Cloud Firestore<br>
--✅ Development Sphere: Mobile Application Development (Native Android, Flutter, PhoneGap) ,RESTFul API.<br>
+- ✅ Languages: JavaScript (Node.js, Next.js),ReactJS
+- ✅ Frameworks/SDK: MERN Stack (MongoDB, Express.js, React, Node.js),NextJS
+- ✅ Testing: Jest (for unit testing),RTL
+- ✅ Caching: Redis
+- ✅ Tools & Technologies: Github, Git, RESTful API, WebSockets
+- ✅ Cloud & Deployment: Amazon Web Services <br>
 
 
 ## 👯 Communities
