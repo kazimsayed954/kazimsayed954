@@ -41,12 +41,9 @@ Let's connect and collaborate on your next tech venture! 🚀
 * Mentor at SWoC '21
 
 **Languages and Tools:**
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,grapjql,git,,docker," />
   </a>
-</p>
-
 
 [![Linkedin](https://img.shields.io/badge/-kazimsayed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazimsayed/)](https://www.linkedin.com/in/kazimsayed/)
 [![Twitter](https://img.shields.io/badge/-@kazimsayed954-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kazimsayed954)](https://twitter.com/kazimsayed954)
