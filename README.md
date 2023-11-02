@@ -66,9 +66,6 @@ Let's connect and collaborate on your next tech venture! 🚀
 ![GitHub metrics](https://metrics.lecoq.io/kazimsayed954)
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazimsayed954" alt="kazimsayed954" /> </p>
-
 ![](https://komarev.com/ghpvc/?username=kazimsayed954&label=PROFILE+VIEWS&color=green)
  
  
