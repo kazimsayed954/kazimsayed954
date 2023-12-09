@@ -40,7 +40,7 @@ Let's connect and collaborate on your next tech venture! 🚀
 * Advisor Mentor at WooTech
 * Mentor at SWoC '21
 
-**Languages and Tools:**
+### Languages and Tools:**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,express,mongodb,postgres,nodejs,nextjs,materialui,sass,jest,redux,redis,graphql,git,docker,postman" />
   </a>
