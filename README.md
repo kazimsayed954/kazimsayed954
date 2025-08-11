@@ -8,7 +8,7 @@
 
 # Full Stack Developer | Software Engineer @ Yahaal
 
-👋 Hello! I'm a Full Stack Developer and Software Engineer at Cloudify.biz with a profound passion for technology. I don't just write 'Hello World' programs; my calling is to create meaningful products through code. There's nothing more fulfilling than bringing ideas to life with programming, and I've dedicated my career to doing just that.
+👋 Hello! I'm a Full Stack Developer and Software Engineer at Yahaal with a profound passion for technology. I don't just write 'Hello World' programs; my calling is to create meaningful products through code. There's nothing more fulfilling than bringing ideas to life with programming, and I've dedicated my career to doing just that.
 
 🚀 As an ambitious programmer, I'm not content with the status quo. My mission is to enhance my skills continuously, delving into the latest technologies and best practices to provide innovative solutions. I believe that solving real-life problems through software is the true essence of development.
 
